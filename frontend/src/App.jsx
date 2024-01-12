@@ -4,13 +4,13 @@ import SectionHeader from "./components/SectionHeader";
 function App() {
 
   const buttonFnc = () => {
-    console.log("Kyle loves me :3")
+    console.log("Yo it worked!")
   };
 
   return (
     <>
-      <SectionHeader headerSize={"small"} headerText={"Kyle Loves Me Not"} />
-      <CustomButton buttonText={"Words of Affirmation"} onClickFunction={buttonFnc} />
+      <SectionHeader headerSize={"small"} headerText={"Testing"} />
+      <CustomButton buttonText={"Test Button Please Press"} onClickFunction={buttonFnc} />
     </>
   )
 }
