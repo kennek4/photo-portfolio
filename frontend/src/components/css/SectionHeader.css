@@ -1,11 +1,30 @@
-#large {
-    background-color: blue;
+.large {
+    font-size: 8rem;
+    font-weight: 800;
+    font-style: italic;
+    margin: 15rem 0rem 5rem 5rem;
 }
 
-#medium {
-    background-color: purple;
+.medium {
+    font-size: 3rem;
+    margin: 0 0 0 5rem;
 }
 
-#small {
-    background-color: red;
+.small {
+    font-size: 2rem;
+    font-style: italic;
+    font-weight: lighter;
+    margin: 0 0 0 5rem;
+}
+
+#jost {
+    font-family: "Jost", sans-serif;
+}
+
+#jetbrains {
+    font-family: "JetBrains Mono";
+}
+
+p {
+    color: #FDFFFC;
 }

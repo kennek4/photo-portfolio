@@ -1,9 +1,9 @@
 import "./css/SectionHeader.css"
 
-export default function SectionHeader({ headerText, headerSize }) {
+export default function SectionHeader({ headerText, headerSize, font }) {
     return (
         <div>
-            <p id={headerSize}>{headerText}</p>
+            <p className={headerSize} id={font}>{headerText}</p>
         </div>
     )
 }

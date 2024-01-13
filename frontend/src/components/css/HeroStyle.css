@@ -1,0 +1,19 @@
+#main-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+#hero-banner {
+    z-index: -1000;
+    margin: 0;
+    position: absolute;
+    top: 0;
+    left: 0rem;
+    padding: 0, 0, 0, 0;
+    margin: 0;
+    width: 100%;
+    background: #14130F;
+    mask-image: linear-gradient(to top, transparent, #14130F, transparent);
+}

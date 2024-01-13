@@ -1,16 +1,10 @@
-import CustomButton from "./components/CustomButton";
-import SectionHeader from "./components/SectionHeader";
+import Hero from "./components/page-sections/Hero";
 
 function App() {
 
-  const buttonFnc = () => {
-    console.log("Yo it worked!")
-  };
-
   return (
     <>
-      <SectionHeader headerSize={"small"} headerText={"Testing"} />
-      <CustomButton buttonText={"Test Button Please Press"} onClickFunction={buttonFnc} />
+      <Hero />
     </>
   )
 }
