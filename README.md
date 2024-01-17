@@ -1,15 +1,15 @@
-# xkt.photos
-A personal photography portfolio / blog website
+# xkt.photos 📸
+A personal photography portfolio/blog website
 
 
-## Frontend Technologies
+## Frontend Technologies 💻
 - React
 - React Router DOM
 - Vite
 - Three.js
 
 
-## Backend Technologies
+## Backend Technologies 📦
 - CORS
 - dotenv
 - express
