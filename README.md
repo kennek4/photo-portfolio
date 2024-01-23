@@ -1,17 +1,17 @@
-# xkt.photos
-A personal photography portfolio / blog website
+# xkt.photos 📸
+A personal photography portfolio/blog website
 
 
-## Frontend Technologies
+## Frontend Technologies 💻
+- Pure
 - React
 - React Router DOM
-- Vite
 - Three.js
-- Pure
+- Vite
 
-## Backend Technologies
+## Backend Technologies 📦
+- Axios
 - CORS
 - dotenv
 - express
 - mongoose
-- Axios
