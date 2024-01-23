@@ -7,10 +7,11 @@ A personal photography portfolio / blog website
 - React Router DOM
 - Vite
 - Three.js
-
+- Pure
 
 ## Backend Technologies
 - CORS
 - dotenv
 - express
 - mongoose
+- Axios
