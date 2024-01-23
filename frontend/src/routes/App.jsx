@@ -1,12 +1,11 @@
-import { Link } from "react-router-dom"
+import Hero from "./main-page/Hero"
+import NavBar from "../components/NavBar"
 
 export default function App() {
     return (
-        <>
-            <h1>HOMEPAGE!!</h1>
-            <button>
-                <Link to={"/admin-xkt"}>Admin Page</Link>
-            </button>
-        </>
+        <div className="">
+            <NavBar />
+            <Hero />
+        </div>
     )
 }

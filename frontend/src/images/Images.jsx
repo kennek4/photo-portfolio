@@ -1,5 +1,5 @@
 const IMAGES = {
-    heroBG: new URL("./hero_bg.JPG", import.meta.url).href
+    heroBG: new URL("./169_herobg_gradient.jpg", import.meta.url).href
 }
 
 export default IMAGES
